@@ -1,7 +1,7 @@
 ## Setup Compy Backgrounds
 
-### Prepare "Family Mode"
-The "cool" option is "Family Mode". To set this up, do this:
+### Prepare default folder. I call it "cool"
+To set this up, do this:
 
 ````
 cd ~/Pictures
@@ -13,15 +13,14 @@ Put files in ~/Pictures/wallpapers/cool
 
 ### Setup Rotating Background
 1. Change background on second desktop
-1. Add ~/Dropbox/wallpapers/women
 1. Add ~/Pictures/wallpapers/cool
-1. Select the women folder (of course)
+1. Select the cool folder (of course)
 1. Set desired rotation preference (I have it set to 5 mins)
 
 ### Global Hotkeys
 1. Download Spark ( http://www.macupdate.com/app/mac/14352/spark )
-1. I created an Applescript shortcut of Option+Command+g to call ~/Dropbox/wallpapers/scripts/random-bg-second-monitor-women
 1. I created an Applescript shortcut of Option+Command+b to call ~/Dropbox/wallpapers/scripts/random-bg-second-monitor-cool
+1. Copy random-bg-second-monitor-cool.scpt to another file for other desktop background directories
 
 ## To set up iTerm to be awesome:
 
